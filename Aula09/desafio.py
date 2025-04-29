@@ -16,6 +16,7 @@ def analisar_sentimento(frase):
     return resultado[0]['label']  
 
 
+
 st.title("Analisador de Sentimentos Multilíngue")
 
 
